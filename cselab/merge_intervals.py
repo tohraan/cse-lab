@@ -1,4 +1,8 @@
-"""Merge Intervals."""
+"""Merge Intervals.
+
+Topic: Sorting (Medium).
+Complexity: O(n log n) time, O(n) space.
+"""
 
 def merge_intervals(intervals: list[list[int]]) -> list[list[int]]:
     """Merge all overlapping closed intervals."""
