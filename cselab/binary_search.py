@@ -2,8 +2,17 @@
 
 def binary_search(a: list[int], target: int) -> int:
     """Index of target in sorted a, or -1."""
-    raise NotImplementedError
+    i = lower_bound(a, target)
+    return i if i < len(a) and a[i] == target else -1
+
 
 def lower_bound(a: list[int], target: int) -> int:
     """First index whose value is >= target (len(a) if none)."""
-    raise NotImplementedError
+    lo, hi = 0, len(a)
+    while lo < hi:
+        mid = (lo + hi) // 2
+        if a[mid] < target:
+            lo = mid + 1
+        else:
+            hi = mid
+    return lo
