@@ -10,13 +10,14 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (3)
+## Problems (4)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
 | 1 | [Two Sum](cselab/two_sum.py) | Hashing | Easy | O(n) time, O(n) space |
 | 2 | [Valid Parentheses](cselab/valid_parentheses.py) | Stack | Easy | O(n) time, O(n) space |
 | 3 | [Merge Intervals](cselab/merge_intervals.py) | Sorting | Medium | O(n log n) time, O(n) space |
+| 4 | [Binary Search & Lower Bound](cselab/binary_search.py) | Searching | Easy | O(log n) time, O(1) space |
 
 ## How this repo is built
 
