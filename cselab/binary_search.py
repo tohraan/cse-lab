@@ -1,4 +1,8 @@
-"""Binary Search & Lower Bound."""
+"""Binary Search & Lower Bound.
+
+Topic: Searching (Easy).
+Complexity: O(log n) time, O(1) space.
+"""
 
 def binary_search(a: list[int], target: int) -> int:
     """Index of target in sorted a, or -1."""
