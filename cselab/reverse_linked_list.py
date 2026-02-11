@@ -1,4 +1,8 @@
-"""Reverse a Linked List."""
+"""Reverse a Linked List.
+
+Topic: Linked List (Easy).
+Complexity: O(n) time, O(1) space.
+"""
 
 class ListNode:
     def __init__(self, val: int = 0, next: "ListNode | None" = None):
