@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (5)
+## Problems (6)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -19,6 +19,7 @@ pytest -q
 | 3 | [Merge Intervals](cselab/merge_intervals.py) | Sorting | Medium | O(n log n) time, O(n) space |
 | 4 | [Binary Search & Lower Bound](cselab/binary_search.py) | Searching | Easy | O(log n) time, O(1) space |
 | 5 | [Reverse a Linked List](cselab/reverse_linked_list.py) | Linked List | Easy | O(n) time, O(1) space |
+| 6 | [Maximum Subarray (Kadane)](cselab/max_subarray.py) | Dynamic Programming | Medium | O(n) time, O(1) space |
 
 ## How this repo is built
 
