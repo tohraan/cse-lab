@@ -1,4 +1,8 @@
-"""Climbing Stairs."""
+"""Climbing Stairs.
+
+Topic: Dynamic Programming (Easy).
+Complexity: O(n) time, O(1) space.
+"""
 
 def climb_stairs(n: int) -> int:
     """Distinct ways to climb n steps taking 1 or 2 at a time."""
