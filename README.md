@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (7)
+## Problems (8)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -21,6 +21,7 @@ pytest -q
 | 5 | [Reverse a Linked List](cselab/reverse_linked_list.py) | Linked List | Easy | O(n) time, O(1) space |
 | 6 | [Maximum Subarray (Kadane)](cselab/max_subarray.py) | Dynamic Programming | Medium | O(n) time, O(1) space |
 | 7 | [Climbing Stairs](cselab/climbing_stairs.py) | Dynamic Programming | Easy | O(n) time, O(1) space |
+| 8 | [Coin Change](cselab/coin_change.py) | Dynamic Programming | Medium | O(amount * coins) time, O(amount) space |
 
 ## How this repo is built
 
