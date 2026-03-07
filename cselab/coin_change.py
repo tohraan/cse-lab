@@ -1,4 +1,8 @@
-"""Coin Change."""
+"""Coin Change.
+
+Topic: Dynamic Programming (Medium).
+Complexity: O(amount * coins) time, O(amount) space.
+"""
 
 def coin_change(coins: list[int], amount: int) -> int:
     """Fewest coins that make amount, or -1."""
