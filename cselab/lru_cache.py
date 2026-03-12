@@ -1,4 +1,8 @@
-"""LRU Cache."""
+"""LRU Cache.
+
+Topic: Design (Medium).
+Complexity: O(1) get/put, O(capacity) space.
+"""
 
 from collections import OrderedDict
 
