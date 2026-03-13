@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (8)
+## Problems (9)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -22,6 +22,7 @@ pytest -q
 | 6 | [Maximum Subarray (Kadane)](cselab/max_subarray.py) | Dynamic Programming | Medium | O(n) time, O(1) space |
 | 7 | [Climbing Stairs](cselab/climbing_stairs.py) | Dynamic Programming | Easy | O(n) time, O(1) space |
 | 8 | [Coin Change](cselab/coin_change.py) | Dynamic Programming | Medium | O(amount * coins) time, O(amount) space |
+| 9 | [LRU Cache](cselab/lru_cache.py) | Design | Medium | O(1) get/put, O(capacity) space |
 
 ## How this repo is built
 
