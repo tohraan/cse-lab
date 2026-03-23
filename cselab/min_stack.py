@@ -1,4 +1,8 @@
-"""Min Stack."""
+"""Min Stack.
+
+Topic: Design (Medium).
+Complexity: O(1) per operation.
+"""
 
 class MinStack:
     """Stack that returns its minimum in O(1)."""
