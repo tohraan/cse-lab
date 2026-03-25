@@ -1,4 +1,8 @@
-"""Trie (Prefix Tree)."""
+"""Trie (Prefix Tree).
+
+Topic: Trees (Medium).
+Complexity: O(L) per operation.
+"""
 
 class Trie:
     def __init__(self) -> None:
