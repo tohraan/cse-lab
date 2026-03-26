@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (10)
+## Problems (11)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -24,6 +24,7 @@ pytest -q
 | 8 | [Coin Change](cselab/coin_change.py) | Dynamic Programming | Medium | O(amount * coins) time, O(amount) space |
 | 9 | [LRU Cache](cselab/lru_cache.py) | Design | Medium | O(1) get/put, O(capacity) space |
 | 10 | [Min Stack](cselab/min_stack.py) | Design | Medium | O(1) per operation |
+| 11 | [Trie (Prefix Tree)](cselab/trie.py) | Trees | Medium | O(L) per operation |
 
 ## How this repo is built
 
