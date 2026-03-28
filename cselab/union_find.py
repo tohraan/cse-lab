@@ -1,4 +1,8 @@
-"""Union-Find (DSU)."""
+"""Union-Find (DSU).
+
+Topic: Graphs (Medium).
+Complexity: ~O(alpha(n)) per operation.
+"""
 
 class UnionFind:
     """Disjoint sets with path compression and union by size."""
