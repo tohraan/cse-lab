@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (11)
+## Problems (12)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -25,6 +25,7 @@ pytest -q
 | 9 | [LRU Cache](cselab/lru_cache.py) | Design | Medium | O(1) get/put, O(capacity) space |
 | 10 | [Min Stack](cselab/min_stack.py) | Design | Medium | O(1) per operation |
 | 11 | [Trie (Prefix Tree)](cselab/trie.py) | Trees | Medium | O(L) per operation |
+| 12 | [Union-Find (DSU)](cselab/union_find.py) | Graphs | Medium | ~O(alpha(n)) per operation |
 
 ## How this repo is built
 
