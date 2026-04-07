@@ -1,4 +1,8 @@
-"""Topological Sort (Kahn)."""
+"""Topological Sort (Kahn).
+
+Topic: Graphs (Medium).
+Complexity: O(V + E) time and space.
+"""
 
 from collections import deque
 
