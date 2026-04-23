@@ -1,4 +1,8 @@
-"""Dijkstra Shortest Paths."""
+"""Dijkstra Shortest Paths.
+
+Topic: Graphs (Medium).
+Complexity: O((V + E) log V) time.
+"""
 
 import heapq
 
