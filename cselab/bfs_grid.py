@@ -1,4 +1,8 @@
-"""Shortest Path in a Grid (BFS)."""
+"""Shortest Path in a Grid (BFS).
+
+Topic: Graphs (Medium).
+Complexity: O(rows * cols) time and space.
+"""
 
 from collections import deque
 
