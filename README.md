@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (15)
+## Problems (16)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -29,6 +29,7 @@ pytest -q
 | 13 | [Topological Sort (Kahn)](cselab/topological_sort.py) | Graphs | Medium | O(V + E) time and space |
 | 14 | [Dijkstra Shortest Paths](cselab/dijkstra.py) | Graphs | Medium | O((V + E) log V) time |
 | 15 | [Shortest Path in a Grid (BFS)](cselab/bfs_grid.py) | Graphs | Medium | O(rows * cols) time and space |
+| 16 | [Number of Islands](cselab/number_of_islands.py) | Graphs | Medium | O(rows * cols) time and space |
 
 ## How this repo is built
 
