@@ -1,4 +1,8 @@
-"""Number of Islands."""
+"""Number of Islands.
+
+Topic: Graphs (Medium).
+Complexity: O(rows * cols) time and space.
+"""
 
 def num_islands(grid: list[list[str]]) -> int:
     """Count 4-connected groups of '1' cells."""
