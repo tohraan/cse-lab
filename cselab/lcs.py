@@ -1,4 +1,8 @@
-"""Longest Common Subsequence."""
+"""Longest Common Subsequence.
+
+Topic: Dynamic Programming (Medium).
+Complexity: O(m * n) time, O(n) space.
+"""
 
 def lcs_length(a: str, b: str) -> int:
     """Length of the longest common subsequence of a and b."""
