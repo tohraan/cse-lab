@@ -1,4 +1,8 @@
-"""Edit Distance (Levenshtein)."""
+"""Edit Distance (Levenshtein).
+
+Topic: Dynamic Programming (Hard).
+Complexity: O(m * n) time, O(n) space.
+"""
 
 def edit_distance(a: str, b: str) -> int:
     """Minimum insertions, deletions and substitutions turning a into b."""
