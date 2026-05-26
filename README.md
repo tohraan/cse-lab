@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (17)
+## Problems (18)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -31,6 +31,7 @@ pytest -q
 | 15 | [Shortest Path in a Grid (BFS)](cselab/bfs_grid.py) | Graphs | Medium | O(rows * cols) time and space |
 | 16 | [Number of Islands](cselab/number_of_islands.py) | Graphs | Medium | O(rows * cols) time and space |
 | 17 | [Longest Common Subsequence](cselab/lcs.py) | Dynamic Programming | Medium | O(m * n) time, O(n) space |
+| 18 | [Edit Distance (Levenshtein)](cselab/edit_distance.py) | Dynamic Programming | Hard | O(m * n) time, O(n) space |
 
 ## How this repo is built
 
