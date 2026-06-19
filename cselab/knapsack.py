@@ -1,4 +1,8 @@
-"""0/1 Knapsack."""
+"""0/1 Knapsack.
+
+Topic: Dynamic Programming (Medium).
+Complexity: O(n * W) time, O(W) space.
+"""
 
 def knapsack(weights: list[int], values: list[int], capacity: int) -> int:
     """Max total value of items fitting in capacity, each used at most once."""
