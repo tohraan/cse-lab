@@ -1,4 +1,8 @@
-"""Merge Sort."""
+"""Merge Sort.
+
+Topic: Sorting (Medium).
+Complexity: O(n log n) time, O(n) space.
+"""
 
 def merge_sort(a: list[int]) -> list[int]:
     """Stable merge sort; returns a new list."""
