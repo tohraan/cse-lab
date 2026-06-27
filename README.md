@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (19)
+## Problems (20)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -33,6 +33,7 @@ pytest -q
 | 17 | [Longest Common Subsequence](cselab/lcs.py) | Dynamic Programming | Medium | O(m * n) time, O(n) space |
 | 18 | [Edit Distance (Levenshtein)](cselab/edit_distance.py) | Dynamic Programming | Hard | O(m * n) time, O(n) space |
 | 19 | [0/1 Knapsack](cselab/knapsack.py) | Dynamic Programming | Medium | O(n * W) time, O(W) space |
+| 20 | [Merge Sort](cselab/merge_sort.py) | Sorting | Medium | O(n log n) time, O(n) space |
 
 ## How this repo is built
 
