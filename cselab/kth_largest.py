@@ -1,4 +1,8 @@
-"""Kth Largest Element."""
+"""Kth Largest Element.
+
+Topic: Heap (Medium).
+Complexity: O(n log k) time, O(k) space.
+"""
 
 import heapq
 
