@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (21)
+## Problems (22)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -35,6 +35,7 @@ pytest -q
 | 19 | [0/1 Knapsack](cselab/knapsack.py) | Dynamic Programming | Medium | O(n * W) time, O(W) space |
 | 20 | [Merge Sort](cselab/merge_sort.py) | Sorting | Medium | O(n log n) time, O(n) space |
 | 21 | [Kth Largest Element](cselab/kth_largest.py) | Heap | Medium | O(n log k) time, O(k) space |
+| 22 | [Top K Frequent Elements](cselab/top_k_frequent.py) | Hashing | Medium | O(n) time with bucket sort |
 
 ## How this repo is built
 
