@@ -1,4 +1,8 @@
-"""Top K Frequent Elements."""
+"""Top K Frequent Elements.
+
+Topic: Hashing (Medium).
+Complexity: O(n) time with bucket sort.
+"""
 
 def top_k_frequent(nums: list[int], k: int) -> list[int]:
     """The k most frequent values (bucket sort by frequency)."""
