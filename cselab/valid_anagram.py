@@ -1,4 +1,8 @@
-"""Valid Anagram."""
+"""Valid Anagram.
+
+Topic: Hashing (Easy).
+Complexity: O(n) time, O(1) space.
+"""
 
 from collections import Counter
 
