@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (23)
+## Problems (24)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -37,6 +37,7 @@ pytest -q
 | 21 | [Kth Largest Element](cselab/kth_largest.py) | Heap | Medium | O(n log k) time, O(k) space |
 | 22 | [Top K Frequent Elements](cselab/top_k_frequent.py) | Hashing | Medium | O(n) time with bucket sort |
 | 23 | [Valid Anagram](cselab/valid_anagram.py) | Hashing | Easy | O(n) time, O(1) space |
+| 24 | [Longest Substring Without Repeats](cselab/longest_unique_substring.py) | Sliding Window | Medium | O(n) time, O(k) space |
 
 ## How this repo is built
 
