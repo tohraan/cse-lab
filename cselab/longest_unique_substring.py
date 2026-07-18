@@ -1,4 +1,8 @@
-"""Longest Substring Without Repeats."""
+"""Longest Substring Without Repeats.
+
+Topic: Sliding Window (Medium).
+Complexity: O(n) time, O(k) space.
+"""
 
 def longest_unique_substring(s: str) -> int:
     """Length of the longest substring with all distinct characters."""
