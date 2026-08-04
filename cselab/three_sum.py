@@ -1,4 +1,8 @@
-"""3Sum."""
+"""3Sum.
+
+Topic: Two Pointers (Medium).
+Complexity: O(n^2) time, O(1) extra space.
+"""
 
 def three_sum(nums: list[int]) -> list[list[int]]:
     """All unique triplets that sum to zero."""
