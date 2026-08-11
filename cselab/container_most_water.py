@@ -1,4 +1,8 @@
-"""Container With Most Water."""
+"""Container With Most Water.
+
+Topic: Two Pointers (Medium).
+Complexity: O(n) time, O(1) space.
+"""
 
 def max_area(height: list[int]) -> int:
     """Largest water area between two lines, moving the shorter side inward."""
