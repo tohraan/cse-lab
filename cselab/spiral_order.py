@@ -1,4 +1,8 @@
-"""Spiral Matrix."""
+"""Spiral Matrix.
+
+Topic: Matrix (Medium).
+Complexity: O(m * n) time.
+"""
 
 def spiral_order(matrix: list[list[int]]) -> list[int]:
     """Elements of the matrix in clockwise spiral order."""
