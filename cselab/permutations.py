@@ -1,4 +1,8 @@
-"""Permutations."""
+"""Permutations.
+
+Topic: Backtracking (Medium).
+Complexity: O(n * n!) time.
+"""
 
 def permutations(nums: list[int]) -> list[list[int]]:
     """All orderings of nums (distinct values)."""
