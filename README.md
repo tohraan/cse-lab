@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (28)
+## Problems (29)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -42,6 +42,7 @@ pytest -q
 | 26 | [Container With Most Water](cselab/container_most_water.py) | Two Pointers | Medium | O(n) time, O(1) space |
 | 27 | [Rotate Image](cselab/rotate_matrix.py) | Matrix | Medium | O(n^2) time, O(1) space |
 | 28 | [Spiral Matrix](cselab/spiral_order.py) | Matrix | Medium | O(m * n) time |
+| 29 | [Permutations](cselab/permutations.py) | Backtracking | Medium | O(n * n!) time |
 
 ## How this repo is built
 
