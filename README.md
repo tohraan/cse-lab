@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (29)
+## Problems (30)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -43,6 +43,7 @@ pytest -q
 | 27 | [Rotate Image](cselab/rotate_matrix.py) | Matrix | Medium | O(n^2) time, O(1) space |
 | 28 | [Spiral Matrix](cselab/spiral_order.py) | Matrix | Medium | O(m * n) time |
 | 29 | [Permutations](cselab/permutations.py) | Backtracking | Medium | O(n * n!) time |
+| 30 | [Subsets](cselab/subsets.py) | Backtracking | Medium | O(n * 2^n) time |
 
 ## How this repo is built
 
