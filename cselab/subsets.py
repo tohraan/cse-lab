@@ -1,4 +1,8 @@
-"""Subsets."""
+"""Subsets.
+
+Topic: Backtracking (Medium).
+Complexity: O(n * 2^n) time.
+"""
 
 def subsets(nums: list[int]) -> list[list[int]]:
     """The power set of nums."""
