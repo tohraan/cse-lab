@@ -1,4 +1,8 @@
-"""N-Queens (count)."""
+"""N-Queens (count).
+
+Topic: Backtracking (Hard).
+Complexity: O(n!) time worst case.
+"""
 
 def total_n_queens(n: int) -> int:
     """Number of ways to place n non-attacking queens on an n x n board."""
