@@ -1,4 +1,8 @@
-"""Level Order Traversal."""
+"""Level Order Traversal.
+
+Topic: Trees (Medium).
+Complexity: O(n) time and space.
+"""
 
 from collections import deque
 
