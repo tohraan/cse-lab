@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (32)
+## Problems (33)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -46,6 +46,7 @@ pytest -q
 | 30 | [Subsets](cselab/subsets.py) | Backtracking | Medium | O(n * 2^n) time |
 | 31 | [N-Queens (count)](cselab/n_queens.py) | Backtracking | Hard | O(n!) time worst case |
 | 32 | [Binary Tree Inorder (iterative)](cselab/inorder_traversal.py) | Trees | Easy | O(n) time, O(h) space |
+| 33 | [Level Order Traversal](cselab/level_order.py) | Trees | Medium | O(n) time and space |
 
 ## How this repo is built
 
