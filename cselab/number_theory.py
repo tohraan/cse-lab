@@ -1,4 +1,8 @@
-"""Sieve, GCD and LCM."""
+"""Sieve, GCD and LCM.
+
+Topic: Math (Easy).
+Complexity: Sieve O(n log log n); GCD O(log n).
+"""
 
 def sieve(n: int) -> list[int]:
     """All primes <= n (sieve of Eratosthenes)."""
