@@ -1,4 +1,8 @@
-"""Fast Modular Exponentiation."""
+"""Fast Modular Exponentiation.
+
+Topic: Math (Medium).
+Complexity: O(log exp) time.
+"""
 
 def pow_mod(base: int, exp: int, mod: int) -> int:
     """base ** exp % mod by repeated squaring."""
