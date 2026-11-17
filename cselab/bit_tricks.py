@@ -1,4 +1,8 @@
-"""Bit Tricks."""
+"""Bit Tricks.
+
+Topic: Bit Manipulation (Easy).
+Complexity: O(1) / O(set bits).
+"""
 
 def single_number(nums: list[int]) -> int:
     """The value that appears once when every other appears twice."""
