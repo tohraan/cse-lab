@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (35)
+## Problems (36)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -49,6 +49,7 @@ pytest -q
 | 33 | [Level Order Traversal](cselab/level_order.py) | Trees | Medium | O(n) time and space |
 | 34 | [Sieve, GCD and LCM](cselab/number_theory.py) | Math | Easy | Sieve O(n log log n); GCD O(log n) |
 | 35 | [Fast Modular Exponentiation](cselab/fast_pow.py) | Math | Medium | O(log exp) time |
+| 36 | [Bit Tricks](cselab/bit_tricks.py) | Bit Manipulation | Easy | O(1) / O(set bits) |
 
 ## How this repo is built
 
