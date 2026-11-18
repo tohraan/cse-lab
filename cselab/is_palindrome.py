@@ -1,4 +1,8 @@
-"""Valid Palindrome."""
+"""Valid Palindrome.
+
+Topic: Two Pointers (Easy).
+Complexity: O(n) time, O(1) space.
+"""
 
 def is_palindrome(s: str) -> bool:
     """Palindrome check ignoring case and non-alphanumerics."""
