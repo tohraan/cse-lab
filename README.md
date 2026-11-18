@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (36)
+## Problems (37)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -50,6 +50,7 @@ pytest -q
 | 34 | [Sieve, GCD and LCM](cselab/number_theory.py) | Math | Easy | Sieve O(n log log n); GCD O(log n) |
 | 35 | [Fast Modular Exponentiation](cselab/fast_pow.py) | Math | Medium | O(log exp) time |
 | 36 | [Bit Tricks](cselab/bit_tricks.py) | Bit Manipulation | Easy | O(1) / O(set bits) |
+| 37 | [Valid Palindrome](cselab/is_palindrome.py) | Two Pointers | Easy | O(n) time, O(1) space |
 
 ## How this repo is built
 
