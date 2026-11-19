@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (37)
+## Problems (38)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -51,6 +51,7 @@ pytest -q
 | 35 | [Fast Modular Exponentiation](cselab/fast_pow.py) | Math | Medium | O(log exp) time |
 | 36 | [Bit Tricks](cselab/bit_tricks.py) | Bit Manipulation | Easy | O(1) / O(set bits) |
 | 37 | [Valid Palindrome](cselab/is_palindrome.py) | Two Pointers | Easy | O(n) time, O(1) space |
+| 38 | [Group Anagrams](cselab/group_anagrams.py) | Hashing | Medium | O(n * k log k) time |
 
 ## How this repo is built
 
