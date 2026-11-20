@@ -1,4 +1,8 @@
-"""Product of Array Except Self."""
+"""Product of Array Except Self.
+
+Topic: Arrays (Medium).
+Complexity: O(n) time, O(1) extra space.
+"""
 
 def product_except_self(nums: list[int]) -> list[int]:
     """out[i] is the product of every element except nums[i], without division."""
