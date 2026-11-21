@@ -1,4 +1,8 @@
-"""First Missing Positive."""
+"""First Missing Positive.
+
+Topic: Arrays (Hard).
+Complexity: O(n) time, O(1) space.
+"""
 
 def first_missing_positive(nums: list[int]) -> int:
     """Smallest positive integer not in nums (cyclic placement, mutates a copy)."""
