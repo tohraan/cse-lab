@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (40)
+## Problems (41)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -54,6 +54,7 @@ pytest -q
 | 38 | [Group Anagrams](cselab/group_anagrams.py) | Hashing | Medium | O(n * k log k) time |
 | 39 | [Product of Array Except Self](cselab/product_except_self.py) | Arrays | Medium | O(n) time, O(1) extra space |
 | 40 | [First Missing Positive](cselab/first_missing_positive.py) | Arrays | Hard | O(n) time, O(1) space |
+| 41 | [Word Break](cselab/word_break.py) | Dynamic Programming | Medium | O(n^2) time, O(n) space |
 
 ## How this repo is built
 
