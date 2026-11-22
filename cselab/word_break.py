@@ -1,4 +1,8 @@
-"""Word Break."""
+"""Word Break.
+
+Topic: Dynamic Programming (Medium).
+Complexity: O(n^2) time, O(n) space.
+"""
 
 def word_break(s: str, words: list[str]) -> bool:
     """True if s can be segmented into dictionary words."""
