@@ -1,4 +1,8 @@
-"""KMP String Search."""
+"""KMP String Search.
+
+Topic: Strings (Hard).
+Complexity: O(n + m) time, O(m) space.
+"""
 
 def kmp_search(text: str, pattern: str) -> list[int]:
     """Start index of every occurrence of pattern in text (empty pattern -> [])."""
