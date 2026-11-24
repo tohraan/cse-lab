@@ -1,4 +1,8 @@
-"""Longest Increasing Subsequence."""
+"""Longest Increasing Subsequence.
+
+Topic: Dynamic Programming (Medium).
+Complexity: O(n log n) time, O(n) space.
+"""
 
 from bisect import bisect_left
 
