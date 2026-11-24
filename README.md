@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (42)
+## Problems (43)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -56,6 +56,7 @@ pytest -q
 | 40 | [First Missing Positive](cselab/first_missing_positive.py) | Arrays | Hard | O(n) time, O(1) space |
 | 41 | [Word Break](cselab/word_break.py) | Dynamic Programming | Medium | O(n^2) time, O(n) space |
 | 42 | [KMP String Search](cselab/kmp_search.py) | Strings | Hard | O(n + m) time, O(m) space |
+| 43 | [Longest Increasing Subsequence](cselab/lis.py) | Dynamic Programming | Medium | O(n log n) time, O(n) space |
 
 ## How this repo is built
 
