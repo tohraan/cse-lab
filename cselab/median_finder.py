@@ -2,14 +2,21 @@
 
 import heapq
 
+
 class MedianFinder:
     """Median of a stream using a max-heap (lower half) and a min-heap (upper half)."""
 
     def __init__(self) -> None:
-        raise NotImplementedError
+        self._lo: list[int] = []  # max-heap via negation
+        self._hi: list[int] = []
 
     def add(self, x: int) -> None:
-        raise NotImplementedError
+        heapq.heappush(self._lo, -x)
+        heapq.heappush(self._hi, -heapq.heappop(self._lo))
+        if len(self._hi) > len(self._lo):
+            heapq.heappush(self._lo, -heapq.heappop(self._hi))
 
     def median(self) -> float:
-        raise NotImplementedError
+        if len(self._lo) > len(self._hi):
+            return float(-self._lo[0])
+        return (-self._lo[0] + self._hi[0]) / 2
