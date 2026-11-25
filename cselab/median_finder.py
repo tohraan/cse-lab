@@ -1,4 +1,8 @@
-"""Running Median."""
+"""Running Median.
+
+Topic: Heap (Hard).
+Complexity: O(log n) add, O(1) median.
+"""
 
 import heapq
 
