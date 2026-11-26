@@ -1,4 +1,8 @@
-"""Token Bucket Rate Limiter."""
+"""Token Bucket Rate Limiter.
+
+Topic: Systems (Medium).
+Complexity: O(1) per request.
+"""
 
 import time
 from typing import Callable
