@@ -1,4 +1,8 @@
-"""Bloom Filter."""
+"""Bloom Filter.
+
+Topic: Systems (Medium).
+Complexity: O(k) per operation, no false negatives.
+"""
 
 import hashlib
 
