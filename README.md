@@ -10,7 +10,7 @@ pip install pytest
 pytest -q
 ```
 
-## Problems (45)
+## Problems (46)
 
 | # | Problem | Topic | Difficulty | Complexity |
 |---|---------|-------|------------|------------|
@@ -59,6 +59,7 @@ pytest -q
 | 43 | [Longest Increasing Subsequence](cselab/lis.py) | Dynamic Programming | Medium | O(n log n) time, O(n) space |
 | 44 | [Running Median](cselab/median_finder.py) | Heap | Hard | O(log n) add, O(1) median |
 | 45 | [Token Bucket Rate Limiter](cselab/token_bucket.py) | Systems | Medium | O(1) per request |
+| 46 | [Bloom Filter](cselab/bloom_filter.py) | Systems | Medium | O(k) per operation, no false negatives |
 
 ## How this repo is built
 
