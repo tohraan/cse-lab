@@ -1,4 +1,8 @@
-"""Consistent Hashing Ring."""
+"""Consistent Hashing Ring.
+
+Topic: Systems (Hard).
+Complexity: O(log n) lookup.
+"""
 
 import bisect
 import hashlib
